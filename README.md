@@ -9,7 +9,7 @@ BIOS F20
   - 10Gbit Ethernet: Aquantia AQC107
   - Two USB-C/Thunderbolt 3 ports
 - CPU: Intel i9-10850k
-- RAM: 128G Kingston FURY Renegade DDR4 3200HZ
+- RAM: 128G Kingston FURY Renegade DDR4 3200MHz
 
 - GPU: Intel UHD Graphics 630
 - Wifi/BT:  Intel AX201
